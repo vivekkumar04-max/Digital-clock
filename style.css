@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    color: white;
+}
+.center{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    border: 2px solid white;
+    margin:20px 20px 20px 20px;
+    padding:20px 20px 20% 20px;
+    font-family: sans-serif;
+    font-size: 50px
+}
+#banner{
+    color: white;
+
+}
+#clock{
+    
+    background-color: yellow;
+    color:black;
+    border:2px solid yellow;
+    padding:10px 10px 10px 10px;
+    border-radius: 20%;
+}
